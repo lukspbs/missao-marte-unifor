@@ -1,0 +1,15 @@
+# Compilados Java
+*.class
+bin/
+out/
+
+# Ranking gerado em runtime (opcional manter fora do versionamento)
+# ranking.json
+
+# Arquivos de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
