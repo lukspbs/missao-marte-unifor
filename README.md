@@ -79,7 +79,7 @@ java -cp out missao.Main
 
 | Integrante | Exercícios / Funcionalidades desenvolvidas |
 |---|---|
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] |
+| [Davi Socoloski] | [Main.java] |
+| [Lucas Pinheiro] | [Classes] |
 
 *(preencher conforme a distribuição real dos commits de cada integrante)*
