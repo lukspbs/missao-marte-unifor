@@ -6,10 +6,10 @@
 
 | Nome | Matrícula | Username Git |
 |---|---|---|
-| [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| [Lucas Pinheiro] | [2510519] | [lukspbs] |
+| [Davi Socoloski] | [2510521] | [davisocoloski1] |
 
-**Link do repositório:** [PREENCHER: URL do GitHub]
+**Link do repositório:** [[URL](https://github.com/lukspbs/missao-marte-unifor/)]
 
 ---
 
